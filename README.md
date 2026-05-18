@@ -38,6 +38,6 @@ gcc -std=c99 -Wall -Wextra -o battleship main.c
 
 Group 22
 
+- Sachin Srinivasan
 - Amarjot Singh
 - Brendan Heos
-- Sachin Srinivasan
